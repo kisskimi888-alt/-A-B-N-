@@ -76,7 +76,7 @@ The bootstrap CIs for spend agree with the normal CIs: Mens [0.48, 1.05], Womens
 Mens vs. Womens head-to-head: visit **+3.14 pp** [2.43, 3.84], conversion **+0.37 pp** [0.17, 0.56],
 spend **+$0.35** [0.03, 0.66] (p = 0.030). The spend difference is the least certain of the three.
 
-![Relative lift](figures/lift_forest.png)
+![Relative lift](lift_forest.png)
 
 Among customers who bought, average order value is similar across arms: Mens $113.5 (n = 267),
 Womens $121.9 (n = 189), control $114.0 (n = 122). This is descriptive only, because conditioning on
