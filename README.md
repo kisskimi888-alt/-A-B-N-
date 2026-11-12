@@ -105,7 +105,7 @@ This dataset has no pre-period version of the outcomes, so it is the wrong setti
 The code is still validated: on synthetic data with ρ = 0.7 it recovers the expected 49% variance
 reduction (`tests/test_stats.py`).
 
-![Variance reduction](figures/variance_reduction.png)
+![Variance reduction](variance_reduction.png)
 
 ### 4.4 The tests are calibrated (A/A)
 
@@ -164,9 +164,9 @@ Out-of-fold Qini coefficients (visit outcome, 5 folds, mean ± SD across folds):
   it predicts +17.7 pp for the top decile, while +10.0 pp is observed. It picked the best of five
   models on the same folds, so its permutation p = 0.035 overstates the evidence.
 
-![Womens Qini](figures/qini_womens.png)
+![Womens Qini](qini_womens.png)
 
-![Mens deciles](figures/deciles_mens.png)
+![Mens deciles](deciles_mens.png)
 
 ## 5. Recommendation (short version)
 
