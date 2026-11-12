@@ -1,0 +1,19 @@
+arm,covariate,smd
+Mens E-Mail,recency,0.006831532454259954
+Mens E-Mail,history,0.007612868321542611
+Mens E-Mail,mens,-0.004582325637487962
+Mens E-Mail,womens,0.007588929691887142
+Mens E-Mail,newbie,-0.0008918953696535326
+Mens E-Mail,zip_Urban,0.0019722315768513645
+Mens E-Mail,zip_Rural,0.01365900039927897
+Mens E-Mail,channel_Web,0.011013588354428299
+Mens E-Mail,channel_Phone,-0.008275992307117473
+Womens E-Mail,recency,0.005180013205688683
+Womens E-Mail,history,0.006510722458553667
+Womens E-Mail,mens,-0.008630731202832915
+Womens E-Mail,womens,0.004946313992582152
+Womens E-Mail,newbie,0.00255670091407956
+Womens E-Mail,zip_Urban,-0.0017628666291550237
+Womens E-Mail,zip_Rural,0.0039585056013728605
+Womens E-Mail,channel_Web,-0.005147863897421752
+Womens E-Mail,channel_Phone,0.008622833281250204
